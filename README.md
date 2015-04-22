@@ -1,2 +1,2 @@
 # Datascience
-repo for work for geargetown data science class
+repo for work for Georgetown data science class
